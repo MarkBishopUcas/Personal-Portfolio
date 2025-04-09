@@ -1,0 +1,15 @@
+One Cent-1
+Two Cents-2
+Five Cents-5
+Ten Cents-10
+Twenty Cents-20
+Fifty Cents-50
+One Euro-100
+Two Euros-200
+Five Euros-500
+Ten Euros-1000
+Twenty Euros-2000
+Fifty Euros-5000
+One Hundred Euros-10000
+Two Hundred Euros-20000
+Five Hundred Euros-50000

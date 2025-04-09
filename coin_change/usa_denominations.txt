@@ -1,0 +1,10 @@
+Penny-1
+Nickel-5
+Dime-10
+Quarter-25
+One Dollar-100
+Five Dollars-500
+Ten Dollars-1000
+Twenty Dollars-2000
+Fifty Dollars-5000
+One Hundred Dollars-10000

@@ -1,0 +1,14 @@
+Centavo-5
+Ten Centavos-10
+Twenty Centavos-20
+Fifty Centavos-50
+One Peso-100
+Two Pesos-200
+Five Pesos-500
+Ten Pesos-1000
+Twenty Pesos-2000
+Fifty Pesos-5000
+One Hundred Pesos-10000
+Two Hundred Pesos-20000
+Five Hundred Pesos-50000
+One Thousand Pesos-100000

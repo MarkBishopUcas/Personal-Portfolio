@@ -1,0 +1,13 @@
+Penny-1
+Two Pence-2
+Five Pence-5
+Ten Pence-10
+Twenty Pence-20
+Fifty Pence-50
+One Pound Coin-100
+Two Pounds Coin-200
+Five Pounds-500
+Ten Pounds-1000
+Twenty Pounds-2000
+Fifty Pounds-5000
+One Hundred Pounds-10000
