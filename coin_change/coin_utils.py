@@ -1,5 +1,5 @@
 import os
-from helper_funcs.main import menu_select
+from helper_funcs.helper import menu_select
 
 
 def run_coin_program():

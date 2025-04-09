@@ -1,6 +1,6 @@
 import csv
 import random
-import chatecter_creation
+from . import chatecter_creation
 
 # Function to get the list of available characters from the CSV file
 def get_character_list():

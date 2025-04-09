@@ -1,3 +1,4 @@
+from InquirerPy import inquirer
 #start of menu select function
 def menu_select(*args):
 

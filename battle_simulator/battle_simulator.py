@@ -1,5 +1,5 @@
-import battle
-import chatecter_creation
+from . import battle
+from . import chatecter_creation
 def main_menu():
     while True:
         choice = input("\n(1) TO BATTLE!\n(2) Character Creation\n(3) Exit\nPlease type the number corrosponding to your selection: ")

@@ -1,10 +1,11 @@
 import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'helper_funcs')))
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from helper_funcs.helper import menu_select
 
-from helper_funcs.main import menu_select
-from coin_utils import run_coin_program
+
+from .coin_utils import run_coin_program
 
 def main():
     """Main menu that allows users to start the coin program or exit."""
