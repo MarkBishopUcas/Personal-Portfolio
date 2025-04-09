@@ -1,4 +1,4 @@
-print("""
+
 # Portfolio of Python Projects
 
 ## Project Description
