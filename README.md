@@ -32,8 +32,6 @@ This project features a main menu to choose from various individual programs. To
 
 * Random - Python's built-in library for generating random numbers, used in the random password generator and battle simulator.
 
-* Time - Python's built-in module for working with time, used to manage time in the todo list manager. 
-
 ## Current Features
 ---
 * A main menu to select between different projects and applications.
