@@ -53,3 +53,16 @@ returns entered number while checking to make sure it fits the paramaters set
 If you want to be fancy with it, and have the user create their own menu, you can do print(menu_select(input("message: "),input("paramater 1: "),input("paramater 2: "),input("paramater 3: "),input("paramater 4: ")))
 """
 #end of menu select function
+
+
+
+def inq_select(*args):
+    items = [f"({i+1}) {args[i+1]}" for i in range(len(args)-1)]
+
+    menu_input = inquirer.select(
+        message=args[0],
+        choices=items,
+        filter=lambda result: int(result.split(")")[0][1:])  # Extract the integer from "(n) Option"
+    ).execute()
+
+    return menu_input
